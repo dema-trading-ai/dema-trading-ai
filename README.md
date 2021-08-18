@@ -1,4 +1,4 @@
-![DemaTrading Logo](https://dematrading.ai/wp-content/uploads/2020/12/DemaTrading-text-transparant.png)
+![DemaTrading Logo](https://dematrading.ai/wp-content/uploads/2021/05/DemaTrading-text-transparant.png)
 
 Hi, we are **@dema-trading** (https://dematrading.ai)! We are developing **Algorithmic Trading Strategies** and **Trading Bots** for multiple platforms like BOTS (https://bots.io).
 
